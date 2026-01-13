@@ -2,8 +2,6 @@
 //  PopoverView.swift
 //  Anois
 //
-//  Created by Conor Luddy on 13/01/2026.
-//
 
 import SwiftUI
 
